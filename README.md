@@ -1,5 +1,5 @@
 # Keylogger
-Keylogger that sends keystrokess to a discord webhook
+Keylogger that sends keystrokes to a discord webhook
 
 This is a very basic script, I will add more features such as screen capture and some type of stealer in the near future.
 ----------------------------------------------------------------------------------------------------------------------
